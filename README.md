@@ -1,10 +1,8 @@
-# node-red-contrib-advanced-ftp
+# node-red-contrib-elevate-advanced-ftp
 
 A Node-RED node for advanced FTP operations, with extended runtime control and logging capabilities.
 
 > 🛠️ Forked and maintained by [Elevate IT](https://github.com/Elevate-IT), based on the original work by [anversoft](https://github.com/anversoft/node-red-contrib-advanced-ftp).
-
-[![NPM](https://nodei.co/npm/node-red-contrib-advanced-ftp.png)](https://www.npmjs.com/package/node-red-contrib-advanced-ftp)
 
 ---
 
@@ -25,7 +23,7 @@ A convenient one-step action that first uploads a file (`PUT`) and immediately r
 Run the following in your Node-RED user directory (usually `~/.node-red`):
 
 ```bash
-npm install node-red-contrib-advanced-ftp
+npm install node-red-contrib-elevate-advanced-ftp
 ```
 
 Then restart Node-RED.
@@ -34,7 +32,7 @@ Then restart Node-RED.
 
 - Open Node-RED
 - Go to **Menu → Manage palette → Install**
-- Search for `node-red-contrib-advanced-ftp` and install
+- Search for `node-red-contrib-elevate-advanced-ftp` and install
 
 ---
 
@@ -93,14 +91,14 @@ This project uses the following libraries:
 
 ## 📄 License
 
-Apache License 2.0 – See [LICENSE](https://github.com/Elevate-IT/node-red-contrib-advanced-ftp/blob/main/LICENSE).
+Apache License 2.0 – See [LICENSE](https://github.com/Elevate-IT/node-red-contrib-elevate-advanced-ftp/blob/main/LICENSE).
 
 ---
 
 ## 🤝 Contributing
 
 We welcome issues and pull requests!  
-Open an issue or PR at: [https://github.com/Elevate-IT/node-red-contrib-advanced-ftp/issues](https://github.com/Elevate-IT/node-red-contrib-advanced-ftp/issues)
+Open an issue or PR at: [https://github.com/Elevate-IT/node-red-contrib-elevate-advanced-ftp/issues](https://github.com/Elevate-IT/node-red-contrib-elevate-advanced-ftp/issues)
 
 ---
 
