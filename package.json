@@ -1,0 +1,35 @@
+{
+  "name": "node-red-contrib-advanced-ftp",
+  "version": "3.0.1",
+  "description": "A Node-RED node to and Advanced FTP Client",
+  "dependencies": {
+    "fs-extra": "10.1.0",
+    "ftp": "^0.3.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anversoft/node-red-contrib-advanced-ftp"
+  },
+  "node-red": {
+    "nodes": {
+      "ftp": "src/advanced-ftp.js",
+      "ftp-logger": "src/advanced-ftp-logger.js"
+    }
+  },
+  "keywords": [
+    "node-red",
+    "node red",
+    "node red ftp",
+    "ftp npm",
+    "npm ftp",
+    "ftp",
+    "ftp client",
+    "ftp client server",
+    "advanced",
+    "advanced ftp",
+    "advanced-ftp",
+    "nodejs"
+  ],
+  "author": "Andrea Verardi",
+  "license": "Apache"
+}
