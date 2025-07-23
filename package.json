@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-advanced-ftp",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "A Node-RED node to and Advanced FTP Client",
   "dependencies": {
     "fs-extra": "10.1.0",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anversoft/node-red-contrib-advanced-ftp"
+    "url": "https://github.com/Elevate-IT/node-red-contrib-advanced-ftp"
   },
   "node-red": {
     "nodes": {
@@ -30,6 +30,6 @@
     "advanced-ftp",
     "nodejs"
   ],
-  "author": "Andrea Verardi",
+  "author": "ELEVATE",
   "license": "Apache"
 }
